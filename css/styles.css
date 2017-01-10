@@ -20,3 +20,10 @@ background-color: darkgreen;
  .reset {
    display: none;
  }
+
+ .p1 {
+   color: red;
+   font-style: italic;
+   border: 2px solid black;
+   padding: 7px;
+ }

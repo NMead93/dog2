@@ -24,4 +24,8 @@ $(document).ready(function() {
     $(".green").show();
   });
 
+  $(".paragraph").click(function() {
+      $(".paragraph p").toggleClass("p1");
+  });
+
 });
