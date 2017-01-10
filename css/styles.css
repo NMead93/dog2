@@ -5,3 +5,18 @@ background-color: darkgreen;
 .lightgreen-background {
   background-color: lightgreen;
 }
+
+.blue-background {
+  background-color: blue;
+}
+ .lightgreen {
+   display: none;
+ }
+
+ .blue {
+   display: none;
+ }
+
+ .reset {
+   display: none;
+ }
